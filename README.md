@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## About Me
+- 🌱 I’m interested in learning and doing projects.
+
 <!--
 **vennki/vennki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
